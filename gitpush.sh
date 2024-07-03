@@ -1,5 +1,5 @@
-git add -A
+git add .
 sleep 10
 git commit -m "update"
 sleep 10
-git push
+git push origin main
