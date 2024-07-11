@@ -83,6 +83,20 @@
       "carts": {
         "2": 1
       }
+    },
+    {
+      "id": 13,
+      "carts": {
+        "2": 3
+      }
+    },
+    {
+      "id": 14,
+      "carts": {}
+    },
+    {
+      "id": 15,
+      "carts": {}
     }
   ],
   "favourite": [
@@ -134,6 +148,18 @@
     },
     {
       "id": 12,
+      "favourites": {}
+    },
+    {
+      "id": 13,
+      "favourites": {}
+    },
+    {
+      "id": 14,
+      "favourites": {}
+    },
+    {
+      "id": 15,
       "favourites": {}
     }
   ],
@@ -195,6 +221,21 @@
       "id": 12,
       "login": "test",
       "pass": "test"
+    },
+    {
+      "id": 13,
+      "login": "2",
+      "pass": "2"
+    },
+    {
+      "id": 14,
+      "login": "11",
+      "pass": "11"
+    },
+    {
+      "id": 15,
+      "login": "444",
+      "pass": "4444"
     }
   ],
   "products": [
