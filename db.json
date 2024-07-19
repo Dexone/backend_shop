@@ -97,6 +97,16 @@
     {
       "id": 15,
       "carts": {}
+    },
+    {
+      "id": 16,
+      "carts": {
+        "1": 6
+      }
+    },
+    {
+      "id": 17,
+      "carts": {}
     }
   ],
   "favourite": [
@@ -160,6 +170,14 @@
     },
     {
       "id": 15,
+      "favourites": {}
+    },
+    {
+      "id": 16,
+      "favourites": {}
+    },
+    {
+      "id": 17,
       "favourites": {}
     }
   ],
@@ -236,6 +254,16 @@
       "id": 15,
       "login": "444",
       "pass": "4444"
+    },
+    {
+      "id": 16,
+      "login": "testtttt",
+      "pass": "testtttt"
+    },
+    {
+      "id": 17,
+      "login": "1233333",
+      "pass": "123333"
     }
   ],
   "products": [
