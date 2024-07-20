@@ -42,10 +42,6 @@
       "carts": {}
     },
     {
-      "id": 8,
-      "carts": {}
-    },
-    {
       "id": 9,
       "carts": {
         "1": 1,
@@ -81,6 +77,7 @@
     {
       "id": 12,
       "carts": {
+        "1": 1,
         "2": 1
       }
     },
@@ -107,6 +104,28 @@
     {
       "id": 17,
       "carts": {}
+    },
+    {
+      "id": 18,
+      "carts": {}
+    },
+    {
+      "id": 19,
+      "carts": {}
+    },
+    {
+      "id": 20,
+      "carts": {}
+    },
+    {
+      "id": 21,
+      "carts": {}
+    },
+    {
+      "id": 22,
+      "carts": {
+        "2": 2
+      }
     }
   ],
   "favourite": [
@@ -132,10 +151,6 @@
     },
     {
       "id": 7,
-      "favourites": {}
-    },
-    {
-      "id": 8,
       "favourites": {}
     },
     {
@@ -179,6 +194,26 @@
     {
       "id": 17,
       "favourites": {}
+    },
+    {
+      "id": 18,
+      "favourites": {}
+    },
+    {
+      "id": 19,
+      "favourites": {}
+    },
+    {
+      "id": 20,
+      "favourites": {}
+    },
+    {
+      "id": 21,
+      "favourites": {}
+    },
+    {
+      "id": 22,
+      "favourites": {}
     }
   ],
   "users": [
@@ -214,11 +249,6 @@
       "id": 7,
       "login": "dimaaa",
       "pass": "martynovv"
-    },
-    {
-      "id": 8,
-      "login": "1",
-      "pass": "1"
     },
     {
       "id": 9,
@@ -264,6 +294,31 @@
       "id": 17,
       "login": "1233333",
       "pass": "123333"
+    },
+    {
+      "id": 18,
+      "login": "yyy",
+      "pass": "yyy"
+    },
+    {
+      "id": 19,
+      "login": "f",
+      "pass": "f"
+    },
+    {
+      "id": 20,
+      "login": "g",
+      "pass": "g"
+    },
+    {
+      "id": 21,
+      "login": "u",
+      "pass": "u"
+    },
+    {
+      "id": 22,
+      "login": "1",
+      "pass": "1"
     }
   ],
   "products": [
