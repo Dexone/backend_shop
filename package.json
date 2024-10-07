@@ -10,7 +10,7 @@
     "server": "json-server --watch db.json"
   },
   "dependencies": {
-    "json-server": "0.17.4",
+    "json-server": "^1.0.0-beta.3",
     "vue": "^3.4.21"
   },
   "devDependencies": {
