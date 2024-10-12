@@ -1,5 +1,5 @@
-git{
-  "name": "backend_shop",
+{
+  "name": "backend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
