@@ -3,12 +3,30 @@
     {
       "id": 1,
       "carts": {}
+    },
+    {
+      "id": 2,
+      "carts": {
+        "2": 1
+      }
+    },
+    {
+      "id": 3,
+      "carts": {}
     }
   ],
   "favourite": [
     {
       "id": 1,
       "favourites": "13"
+    },
+    {
+      "id": 2,
+      "favourites": {}
+    },
+    {
+      "id": 3,
+      "favourites": {}
     }
   ],
   "users": [
@@ -16,6 +34,14 @@
       "id": 1,
       "login": "guest",
       "pass": "guest"
+    },
+    {
+      "id": 2,
+      "login": "test",
+      "pass": "test"
+    },
+    {
+      "id": 3
     }
   ],
   "products": [
